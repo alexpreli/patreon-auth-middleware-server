@@ -1,6 +1,6 @@
 # Patreon Auth Middleware Server
 
-Server for Patreon Auth Middleware CLI tool.
+Server for the **[Patreon Auth Middleware](https://github.com/alexpreli/patreon-auth-middleware)** C++ DLL library and CLI tool.
 
 ## Installation
 
